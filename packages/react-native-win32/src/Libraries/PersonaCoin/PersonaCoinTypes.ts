@@ -18,7 +18,8 @@ export enum PersonaCoinSize {
   normal,
   large,
   extraLarge,
-  extraExtraLarge
+  extraExtraLarge,
+  gigantic
 }
 
 export interface IPersonaCoinProps extends ViewProps {
